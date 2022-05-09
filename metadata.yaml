@@ -1,11 +1,16 @@
 _repo: Puukkoo-puntari-ja-pannunjalaka-Lisaa-pratinoota-Pohjanmaalta_67948
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ikola, Jaakko O.
     gutenberg_agent_id: '54548'
     url: http://www.gutenberg.org/2009/agents/54548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67948#Puukkoo-puntari-ja-pannunjalaka-Lisaa-pratinoota-Pohjanmaalta
 gutenberg_issued: '2022-04-29'
 identifiers:
   gutenberg: '67948'
